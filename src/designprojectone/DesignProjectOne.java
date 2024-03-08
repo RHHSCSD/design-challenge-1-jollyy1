@@ -14,13 +14,19 @@ import java.util.*;
 
 /**************** IPO CHART ************************
 *INPUT:
+* - number of students per project
 *
 *
 *PROCESSING:
+* - total number of students per project
+* - calculate amount of money each project will make
+* - calculate total cost for the entire science fair
+* - output results
 *
 *
 *
 *OUTPUT:
+* - total cost that each student participating will pay
 *
 *
 ***************************************************/
